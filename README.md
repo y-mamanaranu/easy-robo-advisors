@@ -8,7 +8,10 @@ Advise rebalance policy based on your portfolio and investment policy.
 * Buy and cell by your own.
 
 ## File IO
-* JSON.
+Handle numbers with currency units.
+
+* ECSV.
+* Python configuration file.
 
 ## See Also
 * [ロボアドバイザーは自作できる？ | ロボアドバイザー・ラボ【公式サイト】](https://robot-adviser.org/robot-adviser-general-info/robot-adviser-jisaku-76993536/)
