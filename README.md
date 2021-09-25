@@ -1,4 +1,4 @@
-# Easy-Robo-Advisors
+# Easy Robo-Advisors
 Advise rebalance policy based on your portfolio and investment policy.
 
 ## Expected User
