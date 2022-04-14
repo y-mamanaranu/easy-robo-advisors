@@ -1,5 +1,5 @@
 """Test version."""
-from assets_checker import __version__
+from easy_robo_advisors import __version__
 
 
 def test_version():
