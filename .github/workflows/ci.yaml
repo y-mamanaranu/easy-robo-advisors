@@ -27,6 +27,6 @@ jobs:
           pip install poetry pycodestyle pytest
           poetry install --no-interaction
       - name: Lint with pycodestyle
-        run: pycodestyle --count --max-line-length=127 --statistics --show-source
+        run: pycodestyle . --count --max-line-length=127 --statistics --show-source
       - name: Test with pytest
         run: poetry run pytest -vv
